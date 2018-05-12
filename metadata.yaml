@@ -1,0 +1,38 @@
+_repo: The-Caravan-Route-between-Egypt-and-Syria_26705
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Hesse-Wartegg, Ernst von
+    birthdate: 1854
+    deathdate: 1918
+    gutenberg_agent_id: '32192'
+    url: http://www.gutenberg.org/2009/agents/32192
+    wikipedia: http://en.wikipedia.org/wiki/Ernst_von_Hesse-Wartegg
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ludwig Salvator, Archduke of Austria
+    alias: Salvator, Ludwig
+    birthdate: 1847
+    deathdate: 1915
+    gutenberg_agent_id: '32191'
+    url: http://www.gutenberg.org/2009/agents/32191
+    wikipedia: http://en.wikipedia.org/wiki/Ludwig_Salvator
+description: ''
+gutenberg_bookshelf: Travel
+gutenberg_issued: '2008-09-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26705'
+  lccn: 04011891
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Palestine -- Description and travel'
+- !lcc 'DS'
+title: The Caravan Route between Egypt and Syria
+url: http://www.gutenberg.org/ebooks/26705
