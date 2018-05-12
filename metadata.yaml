@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32191
     wikipedia: http://en.wikipedia.org/wiki/Ludwig_Salvator
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26705#The-Caravan-Route-between-Egypt-and-Syria
 gutenberg_bookshelf: Travel
 gutenberg_issued: '2008-09-26'
 gutenberg_type: Text
